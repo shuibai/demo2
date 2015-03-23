@@ -6,9 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
-/********sadasdas*dasdasdasdasdaasdasdasdfgfdss*das*d*as*d*as*d*/
-/********sadasdas*dasdasdasdasdaasdasdasdfgfdss*das*d*as*d*as*d*/
-/********sadasdas*dasdasdasdasdaasdasdasdfgfdss*das*d*as*d*as*d*/
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
