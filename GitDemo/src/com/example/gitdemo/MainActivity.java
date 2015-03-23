@@ -6,7 +6,17 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends ActionBarActivity {
-
+/*
+	ad
+		dad
+		awdawd	daw
+		dawd	dw	
+		dwa
+		d	wd	wa
+		dawd	dwadawfa	dwad	dwadw	
+		dawd	dwadad	dwd	d	dw	d	dw	dwfa
+		dawd	d
+*/
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
